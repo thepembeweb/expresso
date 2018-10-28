@@ -45,7 +45,7 @@ $ npm start
 ## Built With
 
 * [Node.js®](https://nodejs.org/) - The JavaScript runtime used
-* [Express.js®](https://nodejs.org/) - The web application framework used
+* [Express.js](https://nodejs.org/) - The web application framework used
 * [SQLite](https://www.sqlite.org/) - The Database engine used
 
 ## License
